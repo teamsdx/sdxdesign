@@ -20,3 +20,5 @@ fields:
   config:
     required: false
   label: Texto
+pages:
+- _posts/2021-10-06-Welcome to SDx.md
