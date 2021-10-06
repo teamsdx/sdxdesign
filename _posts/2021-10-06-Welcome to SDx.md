@@ -3,7 +3,7 @@ tags:
 - SDx
 - " Welcome"
 data: 2021-10-06 16:46:00 +0000
-texto: ''
+texto: Welcome
 
 ---
 # SDx - Solutions in Digital X
