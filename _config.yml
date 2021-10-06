@@ -9,7 +9,6 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://sdx.design" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
-[![Netlify Status](https://api.netlify.com/api/v1/badges/17a4365d-1a87-475c-8f16-de5af925afce/deploy-status)](https://app.netlify.com/sites/sdxdesign/deploys)
 
 # Build settings
 markdown: kramdown
