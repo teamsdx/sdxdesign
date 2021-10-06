@@ -1,14 +1,15 @@
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
+title: SDx design
+email: admin@sdx.design
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "https://sdx.design" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
+[![Netlify Status](https://api.netlify.com/api/v1/badges/17a4365d-1a87-475c-8f16-de5af925afce/deploy-status)](https://app.netlify.com/sites/sdxdesign/deploys)
 
 # Build settings
 markdown: kramdown
